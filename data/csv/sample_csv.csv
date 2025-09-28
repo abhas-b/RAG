@@ -1,0 +1,11 @@
+﻿OrderID,Date,CustomerID,Product,Quantity,TotalPrice
+1001,01-09-2025,C001,Wireless Mouse,2,51
+1002,01-09-2025,C002,Notebook Stationery,5,10
+1003,02-09-2025,C003,USB-C Hub,1,45
+1004,02-09-2025,C004,Desk Chair,1,120
+1005,03-09-2025,C002,Ballpoint Pens,10,8
+1006,03-09-2025,C005,"Monitor 24""",1,160
+1007,04-09-2025,C006,Standing Desk,1,300
+1008,04-09-2025,C001,Paper Ream A4,3,13.5
+1009,05-09-2025,C007,Keyboard,2,70
+1010,05-09-2025,C008,Whiteboard,1,45
